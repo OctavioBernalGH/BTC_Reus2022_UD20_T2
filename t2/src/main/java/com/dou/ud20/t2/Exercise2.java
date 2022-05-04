@@ -8,6 +8,12 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * 
+ * @author joseporiollopezbosch / David Dalmau / Octavio Bernal
+ *
+ */
+
 public class Exercise2 implements ActionListener{
 
 	private JFrame frame;
